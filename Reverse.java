@@ -26,7 +26,7 @@ public class Reverse {
 			right--;
 		}
 		System.out.println("After reverse: ");
-		System.out.println(Arrays.toString(arr));
+		System.out.print(Arrays.toString(arr));
 		
 		// TODO Auto-generated method stub
 
